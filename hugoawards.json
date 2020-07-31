@@ -1,0 +1,1185 @@
+{
+  "name": "First Time Hugo Award Fiction Winners",
+  "children": [
+    {
+      "name": "Novel",
+      "total": "35",
+      "children": [
+        {
+          "name": "Female",
+          "total": 8,
+          "children": [
+            {
+              "name": "Ann Leckie",
+              "birthdate": "02/03/66",
+              "ceremony": "8/17/2014",
+              "age": "48.45995893",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "J.K. Rowling",
+              "birthdate": "31/07/65",
+              "ceremony": "9/3/2001",
+              "age": "36.09308693",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Jo Walton",
+              "birthdate": "01/12/64",
+              "ceremony": "9/3/2012",
+              "age": "47.75633128",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Kate Wilhelm",
+              "birthdate": "08/06/28",
+              "ceremony": "9/5/1977",
+              "age": "49.24298426",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "N.K. Jemisin",
+              "birthdate": "19/09/72",
+              "ceremony": "8/20/2016",
+              "age": "43.91786448",
+              "novelwins": 3,
+              "total": 3,
+              "categories": "3 novels"
+            },
+            {
+              "name": "Susanna Clarke",
+              "birthdate": "01/11/59",
+              "ceremony": "9/8/2005",
+              "age": "45.85352498",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Ursula K. LeGuin",
+              "birthdate": "21/10/29",
+              "ceremony": "8/24/1970",
+              "age": "40.84052019",
+              "novelwins": 2,
+              "total": 5,
+              "categories": "2 novel, 1 novella, 1 short story, 1 novelette"
+            },
+            {
+              "name": "Vonda N. McIntyre",
+              "birthdate": "28/08/48",
+              "ceremony": "8/23/1979",
+              "age": "30.98425736",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            }
+          ]
+        },
+        {
+          "name": "Male",
+          "total": 27,
+          "children": [
+            {
+              "name": "Alfred Bester",
+              "birthdate": "18/12/13",
+              "ceremony": "9/8/1953",
+              "age": "39.72347707",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel",
+              "gender": "Male"
+            },
+            {
+              "name": "China Mieville",
+              "birthdate": "02/09/72",
+              "ceremony": "9/6/2010",
+              "age": "38.00958248",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Cixin Liu",
+              "birthdate": "23/06/63",
+              "ceremony": "8/22/2015",
+              "age": "52.16427105",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Dan Simmons",
+              "birthdate": "04/04/48",
+              "ceremony": "8/27/1990",
+              "age": "42.39561944",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "David Brin",
+              "birthdate": "06/10/50",
+              "ceremony": "9/3/1984",
+              "age": "33.91101985",
+              "novelwins": 2,
+              "total": 3,
+              "categories": "2 novels, 1 short story"
+            },
+            {
+              "name": "Frank Herbert",
+              "birthdate": "08/10/20",
+              "ceremony": "9/5/1966",
+              "age": "45.908282",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Frank Reilly",
+              "birthdate": "08/06/15",
+              "ceremony": "9/4/1955",
+              "age": "40.24093087",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Fritz Leiber",
+              "birthdate": "24/12/10",
+              "ceremony": "9/1/1958",
+              "age": "47.68788501",
+              "novelwins": 2,
+              "total": "6",
+              "categories": "2 novels, 1 novelette, 2 novellas, 1 short story"
+            },
+            {
+              "name": "Isaac Asimov",
+              "birthdate": "02/01/20",
+              "ceremony": "9/3/1973",
+              "age": "53.67008898",
+              "novelwins": 2,
+              "total": 4,
+              "categories": "2 novel; 2 novelette"
+            },
+            {
+              "name": "James Blish",
+              "birthdate": "23/05/21",
+              "ceremony": "9/7/1959",
+              "age": "38.29158111",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Joe Haldeman",
+              "birthdate": "09/06/43",
+              "ceremony": "9/6/1976",
+              "age": "33.24572211",
+              "novelwins": 2,
+              "total": 5,
+              "categories": "2 novel, 2 short story, 1 novella"
+            },
+            {
+              "name": "John Brunner",
+              "birthdate": "24/09/34",
+              "ceremony": "9/1/1969",
+              "age": "34.93771389",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "John Scalzi",
+              "birthdate": "10/05/69",
+              "ceremony": "9/2/2013",
+              "age": "44.31485284",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Kim Stanley Robinson",
+              "birthdate": "23/03/52",
+              "ceremony": "9/5/1994",
+              "age": "42.45311431",
+              "novelwins": 2,
+              "total": 2,
+              "categories": "2 novel"
+            },
+            {
+              "name": "Mark Clifton",
+              "birthdate": "01/11/06",
+              "ceremony": "9/4/1955",
+              "age": "48.84052019",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Michael Chabon",
+              "birthdate": "24/05/63",
+              "ceremony": "8/10/2008",
+              "age": "45.21560575",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Neal Stephenson",
+              "birthdate": "31/10/59",
+              "ceremony": "9/2/1996",
+              "age": "36.84052019",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Neil Gaiman",
+              "birthdate": "10/11/60",
+              "ceremony": "9/2/2002",
+              "age": "41.80971937",
+              "novelwins": 2,
+              "total": 4,
+              "categories": "2 novel, 1 novella, 1 short story"
+            },
+            {
+              "name": "Orson Scott Card",
+              "birthdate": "24/08/51",
+              "ceremony": "9/1/1986",
+              "age": "35.02258727",
+              "novelwins": 2,
+              "total": 3,
+              "categories": "2 novel, 1 novella"
+            },
+            {
+              "name": "Paolo Bacigalupi",
+              "birthdate": "06/08/72",
+              "ceremony": "9/6/2010",
+              "age": "38.08350445",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Phillip K. Dick",
+              "birthdate": "16/12/28",
+              "ceremony": "9/2/1963",
+              "age": "34.71047228",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Robert A. Heinlein",
+              "birthdate": "07/07/07",
+              "ceremony": "9/3/1956",
+              "age": "49.16084873",
+              "novelwins": 4,
+              "total": 4,
+              "categories": "4 novel"
+            },
+            {
+              "name": "Robert Charles Wilson",
+              "birthdate": "15/12/53",
+              "ceremony": "8/27/2006",
+              "age": "52.69815195",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Robert J. Sawyer",
+              "birthdate": "29/04/60",
+              "ceremony": "9/1/2003",
+              "age": "43.34017796",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            },
+            {
+              "name": "Roger Zelazny",
+              "birthdate": "13/05/37",
+              "ceremony": "9/5/1966",
+              "age": "29.31416838",
+              "novelwins": 2,
+              "total": "6",
+              "categories": "2 novel, 2 novella, 2 novelette"
+            },
+            {
+              "name": "Vernor Vinge",
+              "birthdate": "02/10/44",
+              "ceremony": "9/6/1993",
+              "age": "48.92813142",
+              "novelwins": 2,
+              "total": 5,
+              "categories": "3 novels, 2 novellas"
+            },
+            {
+              "name": "William Gibson",
+              "birthdate": "17/03/48",
+              "ceremony": "8/26/1985",
+              "age": "37.44284736",
+              "novelwins": 1,
+              "total": 1,
+              "categories": "1 novel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Novella",
+      "total": 24,
+      "children": [
+        {
+          "name": "Female",
+          "total": 10,
+          "children": [
+            {
+              "name": "Anne McCaffrey",
+              "birthdate": "01/04/26",
+              "ceremony": "9/2/1968",
+              "age": "42.42299795",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "James Tiptree, Jr. (aka Anne Bradley Sheldon)",
+              "birthdate": "24/08/15",
+              "ceremony": "9/2/1974",
+              "age": "59.02532512",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "2 novella"
+            },
+            {
+              "name": "Jeanne Robinson",
+              "birthdate": "30/03/48",
+              "ceremony": "9/4/1978",
+              "age": "30.4312115",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Joanna Russ",
+              "birthdate": "22/02/37",
+              "ceremony": "9/5/1983",
+              "age": "46.53251198",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Kij Johnson",
+              "birthdate": "20/01/60",
+              "ceremony": "9/3/2012",
+              "age": "52.62149213",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Lois McMaster Bujold",
+              "birthdate": "02/11/49",
+              "ceremony": "8/27/1990",
+              "age": "40.81587953",
+              "novelwins": 4,
+              "total": 5,
+              "categories": "1 novella, 4 novels"
+            },
+            {
+              "name": "Martha Wells",
+              "birthdate": "01/09/64",
+              "ceremony": "8/19/2018",
+              "age": "53.96303901",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "2 novellas"
+            },
+            {
+              "name": "Nancy Kress",
+              "birthdate": "20/01/48",
+              "ceremony": "9/7/1992",
+              "age": "44.63244353",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "2 novellas"
+            },
+            {
+              "name": "Nnedi Okorafor",
+              "birthdate": "08/04/74",
+              "ceremony": "8/20/2016",
+              "age": "42.36824093",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Seanan McGuire",
+              "birthdate": "05/01/78",
+              "ceremony": "8/11/2017",
+              "age": "39.59753593",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            }
+          ]
+        },
+        {
+          "name": "Male",
+          "total": 14,
+          "children": [
+            {
+              "name": "Allen Steele",
+              "birthdate": "19/01/58",
+              "ceremony": "9/2/1996",
+              "age": "38.6201232",
+              "novelwins": 0,
+              "total": 3,
+              "categories": "2 novella; 1 novelette"
+            },
+            {
+              "name": "Barry B. Longyear",
+              "birthdate": "12/05/42",
+              "ceremony": "9/1/1980",
+              "age": "38.30800821",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Brandon Sanderson",
+              "birthdate": "19/12/75",
+              "ceremony": "9/2/2013",
+              "age": "37.70568104",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Charles Stross",
+              "birthdate": "18/10/64",
+              "ceremony": "9/8/2005",
+              "age": "40.88980151",
+              "novelwins": 0,
+              "total": 3,
+              "categories": "1 novella"
+            },
+            {
+              "name": "George R. R. Martin",
+              "birthdate": "9/20/1948",
+              "ceremony": "8/17/1975",
+              "age": "26.90485969",
+              "novelwins": 0,
+              "total": 4,
+              "categories": "2 novellas, 1 novelette, 1 short story"
+            },
+            {
+              "name": "Greg Egan",
+              "birthdate": "20/08/61",
+              "ceremony": "9/6/1999",
+              "age": "38.04517454",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Harry Turtledove",
+              "birthdate": "14/06/49",
+              "ceremony": "9/5/1994",
+              "age": "45.22655715",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Jack Williamson",
+              "birthdate": "29/04/08",
+              "ceremony": "9/3/2001",
+              "age": "93.34702259",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "John Varley",
+              "birthdate": "09/09/47",
+              "ceremony": "8/23/1979",
+              "age": "31.95345654",
+              "novelwins": 0,
+              "total": 3,
+              "categories": "2 novella, 1 short story"
+            },
+            {
+              "name": "Lucius Shepard",
+              "birthdate": "21/08/43",
+              "ceremony": "9/6/1993",
+              "age": "50.04517454",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Philip José Farmer",
+              "birthdate": "26/01/18",
+              "ceremony": "9/2/1968",
+              "age": "50.60095825",
+              "novelwins": 1,
+              "total": 2,
+              "categories": "1 novella, 1 novel"
+            },
+            {
+              "name": "Robert Reed",
+              "birthdate": "09/09/56",
+              "ceremony": "8/27/2007",
+              "age": "50.96235455",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            },
+            {
+              "name": "Robert Silverberg",
+              "birthdate": "15/01/35",
+              "ceremony": "9/1/1969",
+              "age": "34.62833676",
+              "novelwins": 0,
+              "total": 3,
+              "categories": "2 novella, 1 novelette"
+            },
+            {
+              "name": "Spider Robinson",
+              "birthdate": "24/11/48",
+              "ceremony": "9/5/1977",
+              "age": "28.78028747",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "2 novella, 1 short story"
+            },
+            {
+              "name": "Timothy Zahn",
+              "birthdate": "01/09/51",
+              "ceremony": "9/3/1984",
+              "age": "33.00752909",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novella"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Novelette",
+      "total": 26,
+      "children": [
+        {
+          "name": "Female",
+          "total": 11,
+          "children": [
+            {
+              "name": "Charlie Jane Anders",
+              "birthdate": "1969",
+              "ceremony": "9/3/2012",
+              "age": "43.67145791",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Connie Willis",
+              "birthdate": "31/12/45",
+              "ceremony": "9/5/1983",
+              "age": "37.67830253",
+              "novelwins": 3,
+              "total": 11,
+              "categories": "3 novel, 3 short story, 4 novella, 1 novelette"
+            },
+            {
+              "name": "Hao Jingfang",
+              "birthdate": "27/07/84",
+              "ceremony": "8/20/2016",
+              "age": "32.06570842",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Janet Kagan",
+              "birthdate": "18/04/48",
+              "ceremony": "9/6/1993",
+              "age": "45.3853525",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Joan D. Vinge",
+              "birthdate": "02/04/48",
+              "ceremony": "9/4/1978",
+              "age": "30.42299795",
+              "novelwins": 1,
+              "total": 2,
+              "categories": "1 novelette, 1 novel"
+            },
+            {
+              "name": "Kelly Link",
+              "birthdate": "19/07/69",
+              "ceremony": "9/8/2005",
+              "age": "36.13963039",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Kristine Kathryn Rusch",
+              "birthdate": "04/06/60",
+              "ceremony": "9/3/2001",
+              "age": "41.24845996",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Pat Cadigan",
+              "birthdate": "10/09/53",
+              "ceremony": "9/2/2013",
+              "age": "59.97809719",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Suzanne Palmer",
+              "birthdate": "01/01/1969",
+              "ceremony": "8/19/2018",
+              "age": "49.62902122",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Ursula Vernon",
+              "birthdate": "28/05/77",
+              "ceremony": "8/11/2017",
+              "age": "40.20533881",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Zen Cho",
+              "birthdate": "4/22/1986",
+              "ceremony": "8/18/2019",
+              "age": "33.32238193",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            }
+          ]
+        },
+        {
+          "name": "Male",
+          "total": 15,
+          "children": [
+            {
+              "name": "Bill Johnson",
+              "birthdate": "04/10/56",
+              "ceremony": "8/9/1998",
+              "age": "41.84531143",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Bruce Sterling",
+              "birthdate": "14/04/54",
+              "ceremony": "9/1/1997",
+              "age": "43.38398357",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "2 novelette"
+            },
+            {
+              "name": "Charles Sheffield",
+              "birthdate": "25/06/35",
+              "ceremony": "9/5/1994",
+              "age": "59.19780972",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Clifford D. Simak",
+              "birthdate": "03/08/04",
+              "ceremony": "9/7/1959",
+              "age": "55.09377139",
+              "novelwins": 1,
+              "total": 3,
+              "categories": "1 novelette, 1 novel, 1 short story"
+            },
+            {
+              "name": "David Gerrold",
+              "birthdate": "25/01/44",
+              "ceremony": "8/28/1995",
+              "age": "51.58932238",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "George Alec Effinger",
+              "birthdate": "10/01/47",
+              "ceremony": "9/4/1989",
+              "age": "42.65023956",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Greg Bear",
+              "birthdate": "20/08/51",
+              "ceremony": "9/3/1984",
+              "age": "33.0403833",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "1 novelette, 1 short story"
+            },
+            {
+              "name": "Ian McDonald",
+              "birthdate": "31/03/60",
+              "ceremony": "8/27/2007",
+              "age": "47.40588638",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "James Patrick Kelly",
+              "birthdate": "11/04/51",
+              "ceremony": "9/2/1996",
+              "age": "45.3963039",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "2 novelette"
+            },
+            {
+              "name": "Murray Leinster",
+              "birthdate": "16/06/1896",
+              "ceremony": "9/3/1956",
+              "age": "60.22997947",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Peter S. Beagle",
+              "birthdate": "20/04/39",
+              "ceremony": "8/27/2006",
+              "age": "67.35386721",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Peter Watts",
+              "birthdate": "25/01/58",
+              "ceremony": "9/6/2010",
+              "age": "52.61327858",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Ted Chiang",
+              "birthdate": "20/10/67",
+              "ceremony": "9/2/2002",
+              "age": "34.86926762",
+              "novelwins": 0,
+              "total": 4,
+              "categories": "2 novelette, 1 novella, 1 short story"
+            },
+            {
+              "name": "Thomas Olde Heuvelt",
+              "birthdate": "16/04/83",
+              "ceremony": "8/22/2015",
+              "age": "32.3504449",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 novelette"
+            },
+            {
+              "name": "Walter M. Miller, Jr",
+              "birthdate": "23/01/23",
+              "ceremony": "9/4/1955",
+              "age": "32.61327858",
+              "novelwins": 1,
+              "total": 2,
+              "categories": "1 novelette, 1 novel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Short Story",
+      "total": 37,
+      "children": [
+        {
+          "name": "Female",
+          "total": 10,
+          "children": [
+            {
+              "name": "Alix E. Harrow",
+              "birthdate": "11/9/1989",
+              "ceremony": "8/18/2019",
+              "age": "29.77138946",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Amal El-Mohtar",
+              "birthdate": "01/01/85",
+              "ceremony": "8/11/2017",
+              "age": "32.60780287",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "C.J. Cherryh",
+              "birthdate": "01/09/42",
+              "ceremony": "8/23/1979",
+              "age": "36.97467488",
+              "novelwins": 2,
+              "total": 3,
+              "categories": "2 novel, 1 short story"
+            },
+            {
+              "name": "Elizabeth Bear",
+              "birthdate": "22/09/71",
+              "ceremony": "8/10/2008",
+              "age": "36.8843258",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "1 short story, 1 novelette"
+            },
+            {
+              "name": "Mary Robinette Kowal",
+              "birthdate": "08/02/69",
+              "ceremony": "8/21/2011",
+              "age": "42.52977413",
+              "novelwins": 1,
+              "total": 2,
+              "categories": "1 short story, 1 novel"
+            },
+            {
+              "name": "Maureen F. McHugh",
+              "birthdate": "13/02/59",
+              "ceremony": "9/2/1996",
+              "age": "37.5523614",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Naomi Kritzer",
+              "birthdate": "23/04/73",
+              "ceremony": "8/20/2016",
+              "age": "43.32648871",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Octavia E. Butler",
+              "birthdate": "22/06/47",
+              "ceremony": "9/3/1984",
+              "age": "37.2019165",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "1 short story, 1 novelette"
+            },
+            {
+              "name": "Rebecca Roanhorse ",
+              "birthdate": "01/01/71",
+              "ceremony": "8/19/2018",
+              "age": "47.63039014",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Suzy McKee Charnas",
+              "birthdate": "22/10/39",
+              "ceremony": "8/27/1990",
+              "age": "50.84736482",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            }
+          ]
+        },
+        {
+          "name": "Male",
+          "total": 27,
+          "children": [
+            {
+              "name": "Arthur C. Clarke",
+              "birthdate": "16/12/17",
+              "ceremony": "9/3/1956",
+              "age": "38.71594798",
+              "novelwins": 2,
+              "total": 3,
+              "categories": "2 novel, 1 short story"
+            },
+            {
+              "name": "Avram Davidson",
+              "birthdate": "23/04/23",
+              "ceremony": "9/1/1958",
+              "age": "35.35934292",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Brian W. Aldiss",
+              "birthdate": "18/08/25",
+              "ceremony": "9/3/1962",
+              "age": "37.04312115",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "C. M. Kornbluth",
+              "birthdate": "03/07/23",
+              "ceremony": "9/3/1973",
+              "age": "50.17111567",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Daniel Keyes",
+              "birthdate": "09/08/27",
+              "ceremony": "9/5/1960",
+              "age": "33.07597536",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "David D. Levine",
+              "birthdate": "21/02/61",
+              "ceremony": "8/27/2006",
+              "age": "45.51129363",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "David Langford",
+              "birthdate": "10/04/53",
+              "ceremony": "9/3/2001",
+              "age": "48.39972621",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Eric Frank Russell",
+              "birthdate": "06/01/05",
+              "ceremony": "9/4/1955",
+              "age": "50.65845311",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Frederik Pohl",
+              "birthdate": "26/11/19",
+              "ceremony": "9/3/1973",
+              "age": "53.77138946",
+              "novelwins": 1,
+              "total": 3,
+              "categories": "1 novel, 2 short story"
+            },
+            {
+              "name": "Geoffrey A. Landis",
+              "birthdate": "28/05/55",
+              "ceremony": "9/7/1992",
+              "age": "37.28131417",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "2 short story"
+            },
+            {
+              "name": "Gordon R. Dickson",
+              "birthdate": "01/11/23",
+              "ceremony": "8/30/1965",
+              "age": "41.82888433",
+              "novelwins": 0,
+              "total": 3,
+              "categories": "1 short story, 1 novella, 1 novelette"
+            },
+            {
+              "name": "Harlan Ellison",
+              "birthdate": "27/05/34",
+              "ceremony": "9/5/1966",
+              "age": "32.27652293",
+              "novelwins": 0,
+              "total": 7,
+              "categories": "3 novelette; 4 short story"
+            },
+            {
+              "name": "Jack Vance",
+              "birthdate": "28/08/16",
+              "ceremony": "9/3/1963",
+              "age": "47.01437372",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story, 1 novelette"
+            },
+            {
+              "name": "John Chu",
+              "birthdate": "",
+              "ceremony": "8/17/2014",
+              "age": "Age Unavailable",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Ken Liu",
+              "birthdate": "30/11/76",
+              "ceremony": "9/3/2012",
+              "age": "35.75906913",
+              "novelwins": 0,
+              "total": 2,
+              "categories": "2 short story"
+            },
+            {
+              "name": "Larry Niven",
+              "birthdate": "30/04/38",
+              "ceremony": "9/4/1967",
+              "age": "29.34702259",
+              "novelwins": 1,
+              "total": 5,
+              "categories": "3 short story, 1 novelette, 1 novel"
+            },
+            {
+              "name": "Lawrence Watt-Evans ",
+              "birthdate": "26/07/54",
+              "ceremony": "9/5/1988",
+              "age": "34.11362081",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Michael Swanwick",
+              "birthdate": "18/11/50",
+              "ceremony": "9/6/1999",
+              "age": "48.79945243",
+              "novelwins": 0,
+              "total": 5,
+              "categories": "3 short story, 2 novelette"
+            },
+            {
+              "name": "Mike Resnick",
+              "birthdate": "05/03/42",
+              "ceremony": "9/4/1989",
+              "age": "47.50171116",
+              "novelwins": 0,
+              "total": 5,
+              "categories": "1 novella, 1 novelette, 3 short story"
+            },
+            {
+              "name": "Poul Anderson",
+              "birthdate": "25/11/26",
+              "ceremony": "9/4/1961",
+              "age": "34.7761807",
+              "novelwins": 0,
+              "total": 7,
+              "categories": "2 short story, 2 novella, 3 novelette"
+            },
+            {
+              "name": "R.A. Lafferty",
+              "birthdate": "07/11/14",
+              "ceremony": "9/3/1973",
+              "age": "58.82272416",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Robert Bloch",
+              "birthdate": "05/04/17",
+              "ceremony": "9/7/1959",
+              "age": "42.42299795",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Samuel R. Delany",
+              "birthdate": "01/04/42",
+              "ceremony": "8/24/1970",
+              "age": "28.39698836",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Terry Bisson",
+              "birthdate": "12/02/42",
+              "ceremony": "9/2/1991",
+              "age": "49.5523614",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Theodore Sturgeon",
+              "birthdate": "26/02/18",
+              "ceremony": "9/6/1971",
+              "age": "53.52498289",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Tim Pratt",
+              "birthdate": "12/12/76",
+              "ceremony": "8/27/2007",
+              "age": "30.70499658",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            },
+            {
+              "name": "Will McIntosh",
+              "birthdate": "31/01/62",
+              "ceremony": "9/6/2010",
+              "age": "48.59685147",
+              "novelwins": 0,
+              "total": 1,
+              "categories": "1 short story"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
