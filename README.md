@@ -26,4 +26,4 @@ treemap functionality is in treemap.js
 
 data is housed in hugoawards.json
 
-the entire viz comes to life and lives in dataviz.html
+the entire viz comes to life on the page in dataviz.html
