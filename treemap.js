@@ -1,13 +1,10 @@
-//also known as kat is losing her damn mind - so treemap it is!
-
-
 // actual visualization!
 var el_id = 'chart';
         var obj = document.getElementById(el_id);
         var divWidth = obj.offsetWidth;
         var margin = {top: 30, right: 0, bottom: 20, left: 0},
-            width = divWidth -25,
-            height = 600 - margin.top - margin.bottom,
+            width = divWidth,
+            height = 3000 - margin.top - margin.bottom,
             formatNumber = d3.format(","),
             transitioning;
 
@@ -36,7 +33,7 @@ var el_id = 'chart';
                 .attr("y", -margin.top)
                 .attr("width", width)
                 .attr("height", margin.top)
-                .attr("fill", '#bbbbbb');//change
+                .attr("fill", '#cae7b9');//change
             grandparent.append("text")
                 .attr("x", 6)
                 .attr("y", 6 - margin.top)
@@ -67,7 +64,7 @@ var el_id = 'chart';
                     .datum(d.parent)
                     .select("rect")
                     .attr("fill", function () {
-                        return '#bbbbbb'//change
+                        return '#cae7b9'//change
                     });
                 var g1 = svg.insert("g", ".grandparent")
                     .datum(d)
@@ -110,8 +107,10 @@ var el_id = 'chart';
                     .html(function (d) {
                         return '' +
                             '<p class="title"> ' + d.data.name + '</p>' +
-                            '<p>' + 'Total Wins: ' + d.data.total + '</p>'
-                            '<p>' + 'Age at First Win: ' + d.data.age + '</p>' //seems to ignore this
+                            '<p>' + 'Total Wins: ' + d.data.total + '</p>' +
+                            '<p>' + 'Category Wins: ' + d.data.categories + '</p>' +
+                            '<p>' + 'Ceremony Date: ' + d.data.ceremony + '</p>' +
+                            '<p>' + 'Age at First Win: ' + d.data.age + '</p>'
                         ;
                     })
                     .attr("class", "textdiv"); //textdiv class allows css styling
@@ -181,7 +180,7 @@ var el_id = 'chart';
                         return y(d.y1) - y(d.y0);
                     })
                     .attr("fill", function (d) {
-                        return '#bbbbbb';//change
+                        return '#cae7b9';//change
                     });
             }
             function foreign(foreign) {
