@@ -1,7 +1,9 @@
 # d3-HugoAwardFirstTimeWinners
 Hugo Award Winners for d3 treemap visualization 
 
-by kateryna se barnes - kateryna[dot]barnes[at]ualberta[dot]ca and katerynabarnes[dot]com - cite me, y'all
+by kateryna se barnes - kateryna[dot]barnes[at]ualberta[dot]ca and katerynabarnes[dot]com - cite me, y'all 
+
+up-to-date as of August 3, 2020
 
 -------------------------------------------------------
 
