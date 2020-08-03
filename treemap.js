@@ -93,8 +93,7 @@ var el_id = 'chart';
                     .call(rect)
                     .append("title")
                     .text(function (d){
-                        return d.data.name
-                        return d.data.age; //seems to ignore this
+                        return d.data.name;
                     });
 
                 // adding a foreign object instead of a text object = text wrapping
