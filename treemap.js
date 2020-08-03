@@ -33,7 +33,7 @@ var el_id = 'chart';
                 .attr("y", -margin.top)
                 .attr("width", width)
                 .attr("height", margin.top)
-                .attr("fill", '#cae7b9');//change
+                .attr("fill", '#cae7b9');//change this ugly colour please
             grandparent.append("text")
                 .attr("x", 6)
                 .attr("y", 6 - margin.top)
