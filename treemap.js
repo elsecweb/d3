@@ -38,7 +38,7 @@ var el_id = 'chart';
                 .attr("x", 6)
                 .attr("y", 6 - margin.top)
                 .attr("dy", ".75em");
-        d3.json("data/hugoawards-v3.json", function(data) { //the data in all its "glory"
+        d3.json("data/hugoawards.json", function(data) { //the data in all its "glory"
             var root = d3.hierarchy(data);
             console.log(root);
             treemap(root
