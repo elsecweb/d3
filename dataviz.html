@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--seeing as i speak french fluently, as well as german and ukrainian functionally, and spanish and kanein'keha:ka poorly, it's worth noting the language-->
+
+
+<head>
+  <meta charset=utf-8>
+  <title>Barnes goes LIVE</title>
+  <link type="text/css" rel="stylesheet" href="css/styles.css" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
+  <script src="https://d3js.org/d3.v4.js"></script> <!--load d3-->
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script> <!-- colour palette -->
+</head>
+
+<body>
+  <div class="header">
+    <img src="Images/kbarnes_header.jpg" alt="othore’kéha otsistóhkwa"/>
+  </div>
+
+  <div>
+    <ul class="topnav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="story.html">Interactive Story</a></li>
+      <li><a href="dataviz.html">Data Visualization</a></li>
+      <li class="right"><a href="about.html">About</a></li>
+    </ul>
+  </div>
+
+<!--one column; more deets in css: css/stles.css-->
+
+  <div class="row">
+    <div class="column left">
+      <h4>About this project</h4>
+        <p><em>Deepest gratitute to <a href="https://knowyourmeme.com/memes/robocop-on-a-unicorn">Olav Rokne</a>, award-winning tweetwright, photographer extraordinare, dedicated fan researcher and writer, and good friend. This project was only possible with his data and generosity.</em></p>
+        <p>This project is about looking at the basic demographics of first time <a href="http://www.thehugoawards.org/about/">Hugo Award</a> fiction winners - primarily <strong>gender</strong> and <strong>category</strong>. More specifically: which category seems to be the most equal between the genders.</p>
+      </p>In this project, I divided gender into three categories: Female, Male, and Nonbinary. Because transwomen are women and transmen are men, this means they are in their respective categories. It also meant checking for pseudynoms. If it hadn't been for a late-night dive into the Michael Moorcock versus Robert Heinlein <a href="https://libcom.org/library/starship-stormtroopers-michael-moorcock">politics of science fiction debate</a> and associated rabbit-hole reading, I might have missed that James Tiptree Jr. was the pen name for <a href="https://www.npr.org/templates/story/story.php?storyId=6468136">Alice Bradley Sheldon</a>. It's also notable that I could not find any nonbinary winners in these four categories–– a fact that I hope becomes out of date sooner than later.</p>
+        <p>While the Hugo Awards have numerous categories, the four "big" categories are given to written works of fiction: Novel (40,000 words or more), Novella (40,000 to 17,500 words), Novelette (17,500 to 7,500 words), and Short Story (less than 7,500). The associated numbers in this visualization are as follows: number of first time winners total of each category, number of winners by gender, number of total fiction wins by the individual. This means that while <a href="https://www.cityinthemiddleofthenight.com/">Charlie Jane Anders</a> has won Hugo Awards for her novelette <a href="https://www.tor.com/2011/06/08/six-months-three-days/">Six Months, Three Days</a> and for her podcast <a href="https://www.ouropinionsarecorrect.com/">Our Opinions are Correct</a> (shared with Annalee Newitz), she is only counted with one win as the Fancast category is not one analyzed by this project.</p>
+        <hr>
+          <!-- Create a div where the graph will take place -->
+        <p id="chart"></p>
+
+    </div>
+    <div class="column right">
+        <h4>More on the Hugo Awards</h4>
+        <p>
+        <ul>
+          <li><a href="http://www.thehugoawards.org/hugo-history/">Offical Hugo Award History</a></li>
+          <li><a href="http://hugoclub.blogspot.com/">Hugo Award Book Club</a></li>
+          <li><a href="https://www.sfadb.com/Hugo_Awards">Science Fiction Award Database</a></li>
+        </ul>
+      </p>
+    </div>
+  </div>
+  </div>
+
+  <div class="footer">
+    <p>Generic footer about copyright and such. <a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" /></a></p>
+  </div>
+</body>
+<script src="js/treemap.js"></script>
+
+
+</html>
