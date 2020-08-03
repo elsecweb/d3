@@ -8,8 +8,11 @@ by kateryna se barnes - kateryna[dot]barnes[at]ualberta[dot]ca and katerynabarne
 This project was heavily supported by Olav Rokne and Dr. Harvey Quamen. Much gratitude to them. 
 
 The d3 treemap demonstrates the breakdown of first-time winners. Each rectangle is scaled based on the number of wins for each level:
+
     1)by category (major print categories only)
+
     2)by gender - as of August 2020 there have only been male or female winners. Because transwomen are women and transmen are men, they are in their respective categories.
+
     3)each first-time winner
    
 More info, where possible, is provided such as other wins, age, and ceremony date of their first win.
