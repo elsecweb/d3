@@ -57,7 +57,6 @@ var el_id = 'chart';
                     .on("click", transition)
                     .select("text")
                     .text(name(d));
-                    //.text(age(d)); adding stuff here seems to break the viz, and yes, i remove the ";" above. also tried adding , age(d) in the field above.
 
                 // grandparent color
                 grandparent
