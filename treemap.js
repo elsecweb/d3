@@ -1,4 +1,7 @@
+
 // actual visualization!
+
+
 var el_id = 'chart';
         var obj = document.getElementById(el_id);
         var divWidth = obj.offsetWidth;
@@ -33,12 +36,12 @@ var el_id = 'chart';
                 .attr("y", -margin.top)
                 .attr("width", width)
                 .attr("height", margin.top)
-                .attr("fill", '#cae7b9');//change this ugly colour please
+                .attr("fill", '#e3f2fd');//change this ugly colour please
             grandparent.append("text")
                 .attr("x", 6)
                 .attr("y", 6 - margin.top)
                 .attr("dy", ".75em");
-        d3.json("data/hugoawards.json", function(data) { //the data in all its "glory"
+        d3.json("https://raw.githubusercontent.com/elsecweb/d3-HugoAwardFirstTimeWinners/master/hugoawards.json", function(data) { //the data in all its "glory"
             var root = d3.hierarchy(data);
             console.log(root);
             treemap(root
@@ -63,7 +66,7 @@ var el_id = 'chart';
                     .datum(d.parent)
                     .select("rect")
                     .attr("fill", function () {
-                        return '#cae7b9'//change
+                        return '#e3f2fd'//change
                     });
                 var g1 = svg.insert("g", ".grandparent")
                     .datum(d)
@@ -178,7 +181,7 @@ var el_id = 'chart';
                         return y(d.y1) - y(d.y0);
                     })
                     .attr("fill", function (d) {
-                        return '#cae7b9';//change
+                        return '#e3f2fd';//change
                     });
             }
             function foreign(foreign) {
