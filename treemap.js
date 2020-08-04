@@ -7,7 +7,7 @@ var el_id = 'chart';
         var divWidth = obj.offsetWidth;
         var margin = {top: 30, right: 0, bottom: 20, left: 0},
             width = divWidth,
-            height = 3000 - margin.top - margin.bottom,
+            height = 3000 - margin.top - margin.bottom,// depending on data volume, you may need to resize
             formatNumber = d3.format(","),
             transitioning;
 
